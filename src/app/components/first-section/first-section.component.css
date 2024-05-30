@@ -1,0 +1,38 @@
+.category-banner-section {
+  width: 1170px;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin: 0 auto;
+}
+
+.clothing-sections {
+  width: 217px;
+  height: 344px;
+  list-style: none;
+  border-right: 1px solid rgb(189, 189, 189);
+  padding-top: 30px;
+}
+
+.clothing-sections li {
+  width: fit-content;
+  margin: 15px 0;
+  cursor: pointer;
+}
+
+#dropdown-item {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dropdown-icon {
+  cursor: pointer;
+}
+
+.iphone-banner {
+  width: 892px;
+  height: 344px;
+  padding-top: 40px;
+}
