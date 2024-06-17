@@ -1,0 +1,11 @@
+.category-title {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+  }
+  
+.category-title p {
+    color: #db4444;
+    font-weight: 600;
+    font-size: 18px;
+}
